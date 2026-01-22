@@ -26,4 +26,4 @@
 
 ## 📫 Cómo contactarme
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuel-macuma-132147370/)
-- 📧 Tu correo aquí  
+- 📧 Samuelmacumaa@gmail.com 
