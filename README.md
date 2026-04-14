@@ -1,46 +1,29 @@
-# 👨‍💻 Samuel Macuma
-### Técnico Superior en Informática | Full Stack Developer en Formación
+# Samuel Macuma
+**Técnico Superior en Informática | Desarrollador en Formación**
 
-Un apasionado por la resolución de problemas a través del código y la creación de experiencias digitales funcionales. Actualmente enfocado en perfeccionar mis habilidades en el desarrollo web moderno y la arquitectura de software.
-
----
-
-### 🚀 Sobre mí
-- 🎓 **Formación:** Técnico Superior en Informática.
-- 💡 **Intereses:** Desarrollo Web, Automatización con Python y UX/UI.
-- 🌱 **Enfoque actual:** Profundizando en frameworks modernos y arquitecturas escalables.
-- 🔧 **Filosofía:** "Código limpio, mente clara y aprendizaje constante".
+Especializado en la gestión de sistemas y enfocado en el desarrollo de software. Mi objetivo es construir soluciones eficientes, limpias y escalables, aplicando los conocimientos técnicos adquiridos durante mi formación superior.
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 💻 Stack Tecnológico
 
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-#### Backend & Herramientas
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-### 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
-</p>
+### 📂 Proyectos y Aprendizaje
+Actualmente estoy trabajando en:
+- El perfeccionamiento de lógica de programación en **Python**.
+- Desarrollo de interfaces web responsivas y semánticas.
+- Implementación de buenas prácticas y control de versiones con **Git**.
 
 ---
 
-### 📧 Contacto
-¿Tienes algún proyecto en mente o simplemente quieres saludar?
+### ✉️ Contacto
+Si quieres colaborar en un proyecto o simplemente conectar:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-macuma-132147370/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Samuelmacumaa@gmail.com)
-
----
-<p align="center">
-  Hecho con ❤️ por Samuel Macuma
-</p>
+[**LinkedIn**](https://www.linkedin.com/in/samuel-macuma-132147370/) | [**Email**](mailto:Samuelmacumaa@gmail.com)
