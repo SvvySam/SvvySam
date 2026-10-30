@@ -53,7 +53,7 @@
 
 ¿Interesado en desarrollar soluciones innovadoras?
 
-<a href="[https://www.linkedin.com/in/TU_LINKEDIN](https://www.linkedin.com/in/samuel-macuma-132147370/)">
+<a href="https://www.linkedin.com/in/samuel-macuma-132147370/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="samuelmacumaa@gmail.com">
