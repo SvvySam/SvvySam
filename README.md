@@ -46,20 +46,6 @@
 | **Backend** | <img src="https://skillicons.dev/icons?i=py&theme=dark" height="48" alt="Python" /> |
 | **Herramientas** | <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" height="48" alt="VS Code, Git, GitHub" /> |
 
-</div>
-
-<br/>
-
-## 📜 実績 · Estadísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=BC002D&icon_color=FFB7C5&text_color=c9d1d9" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=BC002D&text_color=c9d1d9" alt="top langs" />
-
-</div>
-
-<br/>
 
 ## 📮 連絡 · Conectar
 
