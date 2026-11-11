@@ -2,7 +2,7 @@
 
 <h1>🎋 Samuel Macuma</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=1000&pause=500&color=FFFFFF&background=000000FF&center=true&vCenter=true&width=600&height=70&lines=iniciando+terminal...;cargando+portafolio...;samuel%24;whoami;%E4%B8%8D%E8%A8%80%E5%AE%9F%E8%A1%8C+%C2%B7+Fugen+Jikk%C5%8D;%C2%A1listo+para+comandos!" alt="terminal-init" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=1000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=initializing+terminal...;loading+portfolio...;samuel%24;compiling+ideas...;%E4%B8%8D%E8%A8%80%E5%AE%9F%E8%A1%8C+%C2%B7+actions+over+words;ready+for+commands!" alt="terminal-init" />
 
 <br/><br/>
 
@@ -28,21 +28,24 @@
 - **🌸 改善 Evolución**
   - Compromiso con la excelencia técnica y el aprendizaje continuo.
 
-<br/>
+<br>
 
 ## ⛩️ 技術 · Stack Técnico
 
-<div align="center">
+**Frontend**<br>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-| 道 Camino | Tecnologías |
-|:---:|:---|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="48" alt="HTML, CSS, JavaScript" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=py&theme=dark" height="48" alt="Python" /> |
-| **Herramientas** | <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" height="48" alt="VS Code, Git, GitHub" /> |
+**Backend**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-</div>
+**Herramientas**<br>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-<br/>
+<br>
 
 ## 📮 連絡 · Conectar
 
